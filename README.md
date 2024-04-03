@@ -4,6 +4,7 @@
 
 
 
+![Guzman](https://github.com/edgarguzmang/edgarguzmang/assets/95897451/a5ec3742-3f3e-49ef-92f3-6169be120ef1)
 
 
   <img align="center" src="https://user-images.githubusercontent.com/95897451/221376340-dd1de5d9-f374-4fde-9f5c-ecb2154fd88f.gif" alt="WhatsApp Video 2023-02-25 at 1 31 54 PM (1)" class="image" />
