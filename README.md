@@ -42,7 +42,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edgarguzmang&layout=compact&langs_count=7&theme=radical"/>
 </div>
 
-![image load fail. please open proxy retry](https://github.com/fz6m/commit-snake/blob/snk/snk.svg)
 
 ### 🏆 GitHub Profile Trophy
 
@@ -65,3 +64,6 @@
 [gm]: https://github.com//gm
 [executor]: https://github.com//vim-executor
 [youtuberepo]: https://github.com//youtube_repo_mc_technology
+
+![image load fail. please open proxy retry](https://github.com/fz6m/commit-snake/blob/snk/snk.svg)
+
