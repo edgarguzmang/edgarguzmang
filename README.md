@@ -42,9 +42,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edgarguzmang&layout=compact&langs_count=7&theme=radical"/>
 </div>
 
-![Snake animation](https://github.com/mctechnology17/mctechnology17/blob/output/github-contribution-grid-snake.svg)
-
----
+![image load fail. please open proxy retry](https://github.com/fz6m/commit-snake/blob/snk/snk.svg)
 
 ### 🏆 GitHub Profile Trophy
 
