@@ -41,13 +41,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edgarguzmang&layout=compact&langs_count=7&theme=radical"/>
 </div>
     
-## My Stats:
-<p align="center">
-<img height="200px" src="https://github-readme-stats.vercel.app/api?username=edgarguzmang&hide_border=true&show_icons=true&count_private=true&theme=gruvbox&bg_color=151515">
-</p>
-
-
-
 ### 🏆 GitHub Profile Trophy
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=edgarguzmang&no-frame=true&theme=onedark&rank=SECRET,SSS,SS,S,AAA,AA,A)](https://github.com/ryo-ma/github-profile-trophy)
