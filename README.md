@@ -59,19 +59,5 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=edgarguzmang&no-frame=true&theme=onedark&rank=SECRET,SSS,SS,S,AAA,AA,A)](https://github.com/ryo-ma/github-profile-trophy)
 
 
-[twitter]: https://twitter.com/
-[youtube]: https://www.youtube.com/c/
-[instagram]: https://www.instagram.com//
-[facebook]: https://m.facebook.com//
-[reddit]:https://www.reddit.com/user/
-
-[vimtools]: https://github.com//
-[jailbreakrepo]: https://.github.io/
-[zmk-config]: https://github.com//zmk-config/
-[qmk-config]: https://github.com//qmk-config/
-[gm]: https://github.com//gm
-[executor]: https://github.com//vim-executor
-[youtuberepo]: https://github.com//youtube_repo_mc_technology
-
 ![image load fail. please open proxy retry](https://github.com/fz6m/commit-snake/blob/snk/snk.svg)
 
